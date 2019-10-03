@@ -1,3 +1,3 @@
 # led_flash
 
-![](https://github.com/smiletoeveryone/headless_raspberry_pi4/blob/master/raspbian%20os%20installation%20tutorial%20without%20a%20monitor.bmp)
+![](https://github.com/smiletoeveryone/led_flash/blob/master/Pi_pin_header_numbers.png)
